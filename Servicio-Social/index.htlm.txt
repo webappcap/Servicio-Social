@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Labor Social - Liceo Alejandro de Humboldt</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <div class="header-logo">🎓</div>
+            <h1>Liceo Alejandro de Humboldt</h1>
+            <h2>Sistema de Labor Social</h2>
+            <div class="usuario-info" id="usuarioInfo">
+                <span class="loading">Verificando acceso...</span>
+            </div>
+        </div>
+
+        <div class="main-menu">
+            <a href="scanner.html" class="menu-card">
+                <div class="menu-icon">📱</div>
+                <div class="menu-title">Escanear QR</div>
+                <div class="menu-desc">Registrar asistencia de estudiantes</div>
+            </a>
+            
+            <a href="dashboard.html" class="menu-card">
+                <div class="menu-icon">📊</div>
+                <div class="menu-title">Dashboard</div>
+                <div class="menu-desc">Ver estadísticas y reportes</div>
+            </a>
+            
+            <a href="https://docs.google.com/spreadsheets/d/TU_ID_DE_SHEET" target="_blank" class="menu-card">
+                <div class="menu-icon">📝</div>
+                <div class="menu-title">Hoja de Cálculo</div>
+                <div class="menu-desc">Acceso directo a los datos</div>
+            </a>
+        </div>
+
+        <div class="footer">
+            © 2024 Liceo Alejandro de Humboldt - Grado 11
+        </div>
+    </div>
+
+    <script src="config/config.js"></script>
+    <script src="js/app.js"></script>
+</body>
+</html>
