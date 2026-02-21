@@ -31,7 +31,7 @@
                 <div class="menu-desc">Ver estadísticas y reportes</div>
             </a>
             
-            <a href="https://docs.google.com/spreadsheets/d/TU_ID_DE_SHEET" target="_blank" class="menu-card">
+            <a href="https://docs.google.com/spreadsheets/d/1Pc54gL_6UTwDFNSdiDi97p5KhJWLvzPxvEkOE0cevIM/edit?usp=sharing" target="_blank" class="menu-card">
                 <div class="menu-icon">📝</div>
                 <div class="menu-title">Hoja de Cálculo</div>
                 <div class="menu-desc">Acceso directo a los datos</div>
